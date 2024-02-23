@@ -1,5 +1,5 @@
 # ESG Report : Project Overview
-As an independent contractor for a financial company, I developed an ESG report using Power BI and Excel to offer businesses a comprehensive view of their environmental, social, and governance performance. By leveraging dynamic visualizations and customized data analysis, the report enhances transparency and supports informed decision-making.
+For a personal project, I developed an ESG report using Power BI and Excel to offer businesses a comprehensive view of their environmental, social, and governance performance. By leveraging dynamic visualizations and customized data analysis, the report enhances transparency and supports informed decision-making.
 # Details of the project
 The file **KPIsComputationDetails.xlsx** describes all ESG KPIs (29 split in 7 sections) that  appear in the fund reporting dashboard as well as the Excel Sheet with details on how to compute them using input data. Broadly, a fund is a financial instrument used to gather investors' capital to invest in a collection of portfolio companies (PFC).
 
